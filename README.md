@@ -7,7 +7,6 @@ A single-file, zero-dependency tool for analyzing your internet connection's per
 
 *   ✅ **Single File:** The entire application (HTML, CSS, and JavaScript) is contained in a single `.html` file.
 *   💨 **Zero Dependencies:** No external libraries, frameworks, or setup required. It runs directly in the browser.
-*   🎨 **Modern UI:** A clean, responsive, and dark-themed interface that is easy to read and use.
 *   🌐 **Comprehensive Tests:** Includes performance metrics, international connectivity checks, and critical security/privacy validations.
 *   🔒 **Privacy-Focused:** The tool is entirely client-side. No data is ever stored or sent to a server owned by the developer.
 
