@@ -2,7 +2,7 @@
 
 A single-file, zero-dependency tool for analyzing your internet connection's performance, reachability, and security posture.
 
-You can test it here : 
+You can test it here : https://feterlike.github.io/NST/
 
 ## 🚀 Features
 
