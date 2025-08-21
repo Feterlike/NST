@@ -2,7 +2,6 @@
 
 A single-file, zero-dependency tool for analyzing your internet connection's performance, reachability, and security posture.
 
-You can test it here : https://feterlike.github.io/NST/
 
 ## 🚀 Features
 
@@ -15,15 +14,9 @@ You can test it here : https://feterlike.github.io/NST/
 
 ## 🛠️ How to Use
 
-1.  **Download:** Save the code as an HTML file (e.g., `net-test.html`).
-2.  **Open:** Open the file in a modern web browser like Chrome, Firefox, or Edge.
-3.  **Test:** Click the buttons for the tests you wish to perform. Results appear instantly.
+You can test it here : https://feterlike.github.io/NST/
 
 ---
-
-## 📊 Understanding the Tests
-
-The tests are grouped into three main categories: Performance, Service Connectivity, and Security.
 
 ### 1. Performance & Geolocation
 
